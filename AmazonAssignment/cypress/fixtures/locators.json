@@ -1,0 +1,42 @@
+{
+    
+    "moveToLoginPage":"nav-link-accountList-nav-line-1",
+    "email_input":"ap_email.a-input-text.a-span12.auth-autofocus.auth-required-field",
+    "continue":"continue.a-button-input",
+    "password":"ap_password.a-input-text.a-span12.auth-autofocus.auth-required-field",
+    "signin":"signInSubmit",
+    "navigateToOrders":"nav-orders.nav-a.nav-a-2.nav-progressive-attribute",
+    "selectingPastOneYearOrders":"a-autoid-1-announce.a-button-text.a-declarative",
+    "selectingPastOneYearOrders1":"time-filter_2.a-dropdown-link",
+    "yourAccount":"nav-link-accountList.nav-a.nav-a-2.nav-progressive-attribute",
+    "addingNewAddress":"a-box-inner",
+    "addingNewAddress1":"ya-myab-plus-address-icon.a-section.a-spacing-none.address-plus-icon.aok-inline-block",
+    "name":"address-ui-widgets-enterAddressFullName.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "mobileNo":"address-ui-widgets-enterAddressPhoneNumber.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "pinCode":"address-ui-widgets-enterAddressPostalCode.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "houseNo":"address-ui-widgets-enterAddressLine1.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "colony":"address-ui-widgets-enterAddressLine2.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "area":"address-ui-widgets-landmark.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "place":"address-ui-widgets-enterAddressCity.a-input-text.address-ui-widgets-desktop-form-field-full-width.addrui-form-text-input",
+    "submit":"address-ui-widgets-form-submit-button.a-button.a-button-primary",
+    "selectingThePaymentOption":"a-box-inner",
+    "addingPaymentMethods":"pp-7R3UE9-61.a-button.a-button-base.apx-secure-registration-content-trigger-js",
+    "veryfyingTheCart":"a-dropdown-prompt",
+    "assertingTheAddress":"id-addr-ux-search-text.a-text-bold",
+    "assertingPayment":"a-size-base.pmts-instrument-display-name",
+    "recentOrderDelivered":"a-size-medium.a-color-base.a-text-bold",
+    "todaysDeals":".nav-a[href='/deals?ref_=nav_cs_gb']",
+    "ClickOnThirdElement":"div[class = 'DealGridItem-module__dealItemDisplayGrid_e7RQVFWSOrwXBX4i24Tqg DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN']",
+    "clickOnFirstElement":"a-list-normal a-spacing-none no-margin-right overflow-hidden octopus-response-li-width",
+    "addingItemToCart":"add-to-cart-button",
+    "goToCart":"sw-gtc.a-button.a-spacing-top-base.a-button-span12.a-button-base",
+    "searchingMobiles":"twotabsearchtextbox",
+    "searchingMobiles1":"nav-search-submit-button",
+    "scroll":"[class='a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']",
+    "clickOnMenu":"a[href='javascript: void(0)']",
+    "clickOnMobiles":"nav-sprite hmenu-arrow-next",
+    "clickOnMainMenu":"nav-sprite hmenu-arrow-prev"
+
+
+
+}
